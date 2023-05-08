@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenliuwen)](https://github.com/anuraghazra/github-readme-stats)
  -->
+ 
+ <!-- From this repo: https://github.com/anuraghazra/github-readme-stats -->
+![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=stevenliuwen&show_icons=false&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=vue&hide_title=true&hide_rank=true)
+
